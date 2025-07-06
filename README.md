@@ -1,5 +1,3 @@
-# Ritik Tailor
-
 ## 🚀 About Me
 Front End Developer (ReactJS) with over 5 years of experience.
 
